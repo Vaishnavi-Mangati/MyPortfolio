@@ -270,6 +270,7 @@ section{
 
 .contact{
     background-color: var(--bg-color);
+    height: auto;
 }
 .contact h2{
     margin-bottom: 3rem;
@@ -388,7 +389,6 @@ section{
     }
     .contact form{
         flex-direction: column;
-        height: auto;
     }
     #footer{
         margin-bottom: 0;
