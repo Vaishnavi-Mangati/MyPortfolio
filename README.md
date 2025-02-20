@@ -31,11 +31,11 @@ This portfolio website serves as an online presence to showcase projects, skills
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Vaishnavi-Mangati/MyPortfolio.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd portfolio-website
+   cd MyPortfolio
    ```
 3. Open `index.html` in your browser.
 
